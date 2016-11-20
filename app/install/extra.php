@@ -1531,7 +1531,7 @@ $txt = <<<EOT
                 <!-- .header-bottom (bottom part of header containing catchphrase and search field) -->
                 <div class='row header-bottom'>
                     <section class='phrase cf'>
-                        <span class='seven-col phrase-text'>Science of Impulsivity<br class='lt-768' /> and Cautious</span>
+                        <span class='seven-col phrase-text'>Human Response Engineering - Science of Impulsivity<br class='lt-768' /> and Cautious</span>
                         {Search|strip formtemplate='Simplex Search'} {* Search module using custom template in Design Manager, you should use resultpage parameter for search results (see module help) *}
                     </section>
                 </div>
